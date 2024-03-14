@@ -24,7 +24,7 @@ Inspired by the philosophy of John Bogle, the founder of Vanguard, this reposito
 - **Two Fund Portfolio:** Balances a stock market index fund with a bond market index fund for risk management.
 - **Three Fund Portfolio:** An extension of the two-fund strategy, adding international stocks for further diversification.
 
-The essence of the Bogleheads investment philosophy, especially when it comes to low-cost index fund investing with total world stock market and bonds, is captured in the following principles:
+The essence of the Bogleheads' investment philosophy, especially when it comes to low-cost index fund investing with total world stock market and bonds, is captured in the following principles:
 
 - [ ] **Diversification:** Over 10,000 world-wide securities.
 - [ ] **Contains Every Style and Cap-Size.**
