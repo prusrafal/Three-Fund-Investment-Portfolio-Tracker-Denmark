@@ -12,7 +12,7 @@ A comprehensive Python-based tool for tracking and analyzing long-term investmen
 ## Tax-Smart Investing in Denmark
 
 Investing in Denmark comes with its unique set of tax challenges and opportunities. Our tool provides detailed analysis and suggestions to:
-- Efficiently manage capital gains tax
+- Efficiently manage capital gains taxes
 - Optimize dividend taxation
 - Understand the tax implications of various investment vehicles and strategies
 - Choose between Aktiesparekonto or Månedsopsparing
