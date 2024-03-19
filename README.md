@@ -15,7 +15,7 @@ Investing in Denmark comes with its unique set of tax challenges and opportuniti
 - Efficiently manage capital gains taxes
 - Optimize dividend taxation
 - Understand the tax implications of various investment vehicles and strategies
-- Choose between Aktiesparekonto or Månedsopsparing
+- Choose between the Aktiesparekonto or Månedsopsparing
 
 ## Bogleheads Investment Philosophy
 
